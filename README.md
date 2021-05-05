@@ -1,1 +1,1 @@
-# JavaOdevler
+# Java kampi odevleri
