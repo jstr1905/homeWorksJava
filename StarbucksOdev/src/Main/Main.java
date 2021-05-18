@@ -12,7 +12,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Customer customer1 = new Customer(1, "Yusuf", "Yýldýz", "23044374142", LocalDate.of(2000, 6, 30));
+		Customer customer1 = new Customer(1, "Yusuf", "Yýldýz", "11122233344", LocalDate.of(2000, 6, 5));
 		CustomerManager neroCustomerManager = new NeroCustomerManager();
 		neroCustomerManager.save(customer1);
 
